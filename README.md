@@ -1,6 +1,6 @@
 # Car Rental CMS in Java
 
-The project is built on MVC architecture on simple Java Swing. 
+The project is built on MVC architecture on simple Java Swing. It is a BSc second year - second semester assignment in Software Development Module.
 <br><br>
 The controller keeps track of all open views and possible changes made to any of them. View concurency is implemented, meaning that changes happening to one view, are applied real-time to any other open views. This is done with the use of concurrent hashmaps that keep all views stored.
 <br><br>
