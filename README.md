@@ -8,4 +8,4 @@ The model is serialized to an external file as these were the requirements of th
 <br><br>
 Input validation on record insertion is done with Regular Expressions as the user types. 
 <br><br>
-For usage pelase see the <a href="https://github.com/antoniosTriant/Car-Rental-CMS-in-Java/wiki/User-Guide">User Guide</a>.
+For usage please see the <a href="https://github.com/antoniosTriant/Car-Rental-CMS-in-Java/wiki/User-Guide">User Guide</a>.
